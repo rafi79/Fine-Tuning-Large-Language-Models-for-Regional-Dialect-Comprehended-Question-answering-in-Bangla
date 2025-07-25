@@ -186,17 +186,6 @@ If you use this work in your research, please cite:
 - **Publisher**: IEEE
 - **DOI**: [10.1109/SCEECS64059.2025.10940303](https://doi.org/10.1109/SCEECS64059.2025.10940303)
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to:
-- Report issues
-- Submit feature requests
-- Contribute code improvements
-- Add new dialect variations
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -208,8 +197,8 @@ We express our sincere gratitude to:
 ## 📧 Contact
 
 For questions or collaborations, please reach out to:
-- **Primary Contact**: [First Author Email]
-- **Project Lead**: [Project Lead Email]
+- **Primary Contact**: jahidalamriad@gmail.com
+- **Project Lead**: rafi79466@gmail.com
 - **Issues**: Use GitHub Issues for technical questions
 
 ---
